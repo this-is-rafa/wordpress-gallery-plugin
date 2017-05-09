@@ -11,6 +11,9 @@
  * @package    Wp_Minimart_Swiper
  * @subpackage Wp_Minimart_Swiper/admin/partials
  */
+
 ?>
 
-<!-- This file should primarily consist of HTML with a little bit of PHP. -->
+<h1>Settings</h1>
+
+

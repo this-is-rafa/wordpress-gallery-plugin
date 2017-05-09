@@ -1,4 +1,15 @@
-/**
- * All of the CSS for your public-facing functionality should be
- * included in this file.
- */
+.swiper-container:hover .swiper-button-prev, .swiper-container:hover .swiper-button-next {
+  opacity: 1;
+}
+
+.swiper-button-prev, .swiper-button-next {
+  opacity: 0;
+  transition-property: opacity;
+  transition-duration: 0.2s;
+}
+
+.swiper-button-prev, .swiper-button-next {
+  background-image: none;
+  font-size: 3rem;
+  line-height: 3;
+}
